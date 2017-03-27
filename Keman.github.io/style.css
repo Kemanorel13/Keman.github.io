@@ -1,0 +1,20 @@
+body {
+            background: #f3f2f3;
+            color: #000000;
+            font-family: Trebuchet MS, Arial, Times New Roman;
+            font-size: 12px;
+}
+ 
+#container {
+            background:#66CCCC;
+            margin: 30px auto;
+            width: 900px;
+            height: 600px;
+}
+ 
+#header {
+            background: #99CC99;
+            height: 100px;
+            width: 900px;
+}
+}
